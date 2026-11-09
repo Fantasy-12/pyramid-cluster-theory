@@ -1,4 +1,6 @@
-﻿# 金字塔集群理论
+# 金字塔集群理论
+
+Pyramid Cluster Theory — a speculative framework on how humans and AGI might coexist.
 
 关于 AGI 与人类未来关系的一种构想。
 
